@@ -11,10 +11,8 @@ properties:
     required: true
   token:
     type: string
-    required: true
   channel:
     type: string
-    required: true
   passed-message:
     type: string
   failed-message:
