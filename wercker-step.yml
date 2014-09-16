@@ -1,5 +1,5 @@
 name: slack-notify
-version: 1.0.2
+version: 1.0.3
 description: Send a message to a Slack channel after build or deploy
 keywords:
   - notification
@@ -12,7 +12,7 @@ properties:
   token:
     type: string
     required: true
-  channed:
+  channel:
     type: string
     required: true
   passed-message:
