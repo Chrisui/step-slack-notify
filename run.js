@@ -1,4 +1,3 @@
-var request = require('request');
 var exec = require('child_process').exec;
 var dotenv = require('dotenv');
 dotenv.load();
